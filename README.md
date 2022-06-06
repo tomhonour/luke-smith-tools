@@ -31,10 +31,10 @@ and
 Uses [hugo](https://gohugo.io/) and [lugo](https://github.com/lukesmithxyz/lugo).
 
 ## NotRelated.xyz
-Uses [Recfiles](https://wikipedia.org/wiki/Recfiles)
+Uses [Recfiles](https://wikipedia.org/wiki/Recfiles).
 
 ## videos.lukesmith.xyz
-Uses [PeerTube](https://github.com/chocobozzz/peertube)
+Uses [PeerTube](https://github.com/chocobozzz/peertube).
 
 ## OBS overlay
 ### Demo
@@ -53,16 +53,12 @@ Features:
 ## Installation
 ```
 ./generate-background.sh
-```
-```
 mkdir -p ~/.config/obs-studio/plugins
-```
-```
 tar -xf text-pango-linux.tar.gz -C ~/.config/obs-studio/plugins
 ```
 
 For emojis see:
-[LukeSmithxyz/voidrice/blob/master/.local/share/larbs/emoji](https://github.com/LukeSmithxyz/voidrice/blob/master/.local/share/larbs/emoji)
+[LukeSmithxyz/voidrice/blob/master/.local/share/larbs/emoji](https://github.com/lukesmithxyz/voidrice/blob/master/.local/share/larbs/emoji)
 or
 [Emoji - Wikipedia](https://wikipedia.org/wiki/Emoji)
 
