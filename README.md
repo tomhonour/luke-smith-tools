@@ -5,7 +5,7 @@ Domain name registrar: [epik](https://www.epik.com).
 
 Virtual private server: [vultr](https://www.vultr.com) or [frantech](https://my.frantech.ca)/[BuyVM](https://buyvm.net).
 
-May be built using [hugo](https://gohugo.io/) and [lugo](https://github.com/lukesmithxyz/lugo).
+Uses [hugo](https://gohugo.io/) and [lugo](https://github.com/lukesmithxyz/lugo).
 
 ## lukesmith.xyz/library/
 Uses the [Library of Congress Classification](https://wikipedia.org/wiki/Library_of_Congress_Classification#Classification) (LCC) system. [classify](http://classify.oclc.org/classify2/) is a useful system which can find a book's LCC class and sub-class from an ISBN, OCLC#, UPC, or ISSN.
@@ -13,6 +13,7 @@ Uses the [Library of Congress Classification](https://wikipedia.org/wiki/Library
 ## lukesmith.xyz/donate/
 ### donate.lukesmith.xyz (AKA Credit card donation)
 Handled by [fosspay](https://git.sr.ht/~sircmpwn/fosspay). Includes user accounts and e-mail receipts (all handled by [fosspay](https://git.sr.ht/~sircmpwn/fosspay)) ([fosspay](https://git.sr.ht/~sircmpwn/fosspay) uses [stripe](https://stripe.com)).
+[tutorial](https://github.com/LukeSmithxyz/landchad/blob/master/content/fosspay.md)
 
 ### Message/Superchat with Monero
 and
